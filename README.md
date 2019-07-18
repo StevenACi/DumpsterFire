@@ -1,3 +1,6 @@
+# Note:
+  Program has been updated to Python3 by Steve Carino (@github.StevenACi)
+
 # DumpsterFire Toolset
 
 DumpsterFire Toolset - "Security Incidents In A Box!"
