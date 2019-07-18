@@ -32,6 +32,7 @@
 
 import os, sys, getopt, dumpsterFireFactory
 
+
 def IgniteDumpsterFireHeadless( dumpsterFireName ):
 	
 	# Load the named Dumpster Fire
@@ -45,11 +46,11 @@ def IgniteDumpsterFireHeadless( dumpsterFireName ):
 
 if __name__ == "__main__":
 	if ( len(sys.argv) != 2 ):
-		print ""
-		print "usage: igniteDumpsterFire.py <DumpsterFireName>"
-		print ""
-		print "Example: ./igniteDumpsterFire.py my_dumpsterfire.fyr"
-		print ""
+		print("")
+		print("usage: igniteDumpsterFire.py <DumpsterFireName>")
+		print("")
+		print("Example: ./igniteDumpsterFire.py my_dumpsterfire.fyr")
+		print("")
 		
 		exit
 	
